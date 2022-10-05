@@ -43,7 +43,6 @@ namespace ConsoleApp1
         }
         public int GetPerimeter()
         {
-            //double perimeter = 2 * (length + width);
             return 2 * (length + width);
         }
         public int GetArea()
